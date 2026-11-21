@@ -1,6 +1,5 @@
 # Bike-Share-Time-Series-Forcasting-
 Applied time series forecasting techniques to identify demand patterns, generate forecasts and evaluate accuracy using MAD, MAPE and MSE
-# Bike-Share Time Series Forecasting
 
 ## Project Overview
 A time series forecasting project analysing bike-sharing demand to identify trends and patterns and generate forecasts to support demand planning.
